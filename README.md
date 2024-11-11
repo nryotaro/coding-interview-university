@@ -1790,7 +1790,7 @@ You're never really done.
 - ### k-D Trees
     - Great for finding a number of points in a rectangle or higher-dimensional object
     - A good fit for k-nearest neighbors
-    - [kNN K-d tree algorithm (video)](https://www.youtube.com/watch?v=Y4ZgLlDfKDg)
+    - [x] [kNN K-d tree algorithm (video)](https://www.youtube.com/watch?v=Y4ZgLlDfKDg)
 
 - ### Skip lists
     - "These are somewhat of a cult data structure" - Skiena
